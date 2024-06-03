@@ -26,10 +26,10 @@ So, buckle up, fellow explorer, and let's navigate this tiny but vast planet tha
 
 ## About Me
 
-- 🌱 I’m currently learning and expanding my skills in DevOps CI/CD tools.
+- 🌱 I’m learning and expanding my DevOps CI/CD skills.
 - 👨‍🏫 I specialise in backend and frontend development, with expertise in Java, Python, JavaScript, and the MERN stack.
-- 🏆 Certified Pega System Architect, specializing in automating business processes and developing scalable solutions.
-- 🎓 Graduate in Computer Systems and Robotics from the University of Westminster.
+- 🏆 Certified Pega System Architect, specialising in automating business processes and developing scalable solutions.
+- 🎓 Graduate of Computer Systems and Robotics Engineering.
 - 👨‍💻 Active in the "Teach the Nation to Code" initiative, helping people from various backgrounds learn valuable coding skills.
 - ⚡ Fun fact: DISNEY RULES!!!
 
@@ -56,13 +56,13 @@ A Java-based application that interacts with a MySQL database, demonstrating str
 A foundational backend structure for MERN stack projects to streamline server-side development, including user authentication, database connections, and API routes.
 
 ### Animal Management System
-A Spring framework project managing information about animals, showcasing key concepts like dependency injection, MVC architecture, and RESTful web services.
+A Spring framework project to manage information about animals, showcasing key concepts like dependency injection, MVC architecture, and RESTful web services.
 
 ## Get in Touch
 
 - 💼 LinkedIn: [Aswene Sivaraj](https://www.linkedin.com/in/aswenesivaraj/)
 
-Feel free to explore my repositories and reach out if you have any questions or collaboration ideas. Let's connect and build something amazing together!
+Please explore my repositories and let me know if you have any questions or collaboration ideas. Let's connect and build something amazing together!
 
 ---
 
