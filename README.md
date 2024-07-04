@@ -26,7 +26,7 @@ So, buckle up, fellow explorer, and let's navigate this tiny but vast planet tha
 
 ## About Me
 
-- 🌱 I’m learning and expanding my DevOps CI/CD skills.
+- 🌱 I’m learning and expanding my DevOps CI/CD skills as well as working more with Linux environments
 - 👨‍🏫 I specialise in backend and frontend development, with expertise in Java, Python, JavaScript, and the MERN stack.
 - 🏆 Certified Pega System Architect, specialising in automating business processes and developing scalable solutions.
 - 🎓 Graduate of Computer Systems and Robotics Engineering.
@@ -49,14 +49,20 @@ So, buckle up, fellow explorer, and let's navigate this tiny but vast planet tha
 
 ## Projects
 
-### Inventory Management System
-A Java-based application that interacts with a MySQL database, demonstrating strong backend development skills and implementation of Agile methodologies.
+### Magic 8-ball: Ask a question, Get an answer!
+A web-based Magic 8-Ball game that provides random responses to user questions. It uses a Python Flask backend for handling logic and a frontend built with HTML, CSS, and JavaScript. Users can type in questions, send them to the backend, and receive random answers displayed on the interactive user interface.
+
+### Tic Tac Toe Game
+A Tic-Tac-Toe game implemented with React. It provides setup instructions, an explanation of the project structure, and details on the key components. The game allows players to take turns, maintains a history of moves, and includes a function to determine the winner.  
 
 ### MERN Stack Backend Template
 A foundational backend structure for MERN stack projects to streamline server-side development, including user authentication, database connections, and API routes.
 
 ### Animal Management System
 A Spring framework project to manage information about animals, showcasing key concepts like dependency injection, MVC architecture, and RESTful web services.
+
+### Inventory Management System
+A Java-based application that interacts with a MySQL database, demonstrating strong backend development skills and implementation of Agile methodologies.
 
 ## Get in Touch
 
